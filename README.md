@@ -10,6 +10,7 @@ What problem does it solve?
 The Sustainable Energy Management System addresses the critical issue of efficient energy consumption and sustainability. It optimizes the utilization of renewable energy sources, reduces wastage, and minimizes the carbon footprint. By doing this, it helps businesses and individuals embrace eco-friendly practices and make the world a cleaner, more sustainable place. It's not just a coding project; it's a catalyst for environmental change.
 
 What did i learn?
+
 Throughout this project, I've learned that coding is a versatile tool that can be applied to almost any sector, especially one as vital as sustainable energy. I've discovered that learning to code isn't just about acquiring a skill; it's a gateway to an ever-evolving world of opportunities. I've also gained a profound understanding of the global energy crisis and the role technology can play in solving it. This journey has not only broadened my knowledge but has also deepened my commitment to creating a positive and lasting impact on the world through coding.
 
 ## Usage
